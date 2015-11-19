@@ -1,0 +1,2 @@
+# Sigmoid
+:loop: sygmoid function
